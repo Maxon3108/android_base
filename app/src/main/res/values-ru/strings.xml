@@ -1,0 +1,7 @@
+<resources>
+    <string name="city_name">Тула</string>
+    <string name="content">Погода</string>
+    <string name="temperature">+8 "\u2103"</string>
+    <string name="weatherPng">TODO</string>
+    <string name="background">TODO</string>
+</resources>
