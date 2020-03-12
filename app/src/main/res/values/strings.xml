@@ -2,7 +2,7 @@
     <string name="app_name" translatable="false">android_base</string>
     <string name="city_name">Tula</string>
     <string name="content">Weather</string>
-    <string name="temperature">+8 "\u2103" </string>
+    <string name="temperature">+7 "\u2103" </string>
     <string name="weatherPng">TODO</string>
     <string name="background">TODO</string>
 </resources>
